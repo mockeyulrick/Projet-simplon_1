@@ -1,9 +1,9 @@
+<?php require('assets/config/header.php');
+?>
 <!DOCTYPE html>
 <html lang="Fr">
 <body>
-<?php 
-  require('assets/config/header.php');
-?>
+
   <main id="main" class="main">
 
     <div class="pagetitle">

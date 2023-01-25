@@ -74,6 +74,8 @@
                     </div>
                   </form>
                 <?php 
+                    echo "<h6 class='alert alert-warning'>Nom d'utilisateur:  'admin@simplon.ci'";
+                    echo "<h6 class='alert alert-warning'>Mot de passe : '12345'";
                   if (!empty($_POST)) {
                       $adresse_mail = $_POST['adresse_mail'];
                       $mot_de_passe = $_POST['mot_de_passe'];
